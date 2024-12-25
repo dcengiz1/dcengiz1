@@ -42,7 +42,7 @@ I'm Deniz Cengiz, an IT leader with over 20 years of experience in the technolog
 
 ## 📚 Key Achievements
 
-- **SAP Global Implementations**: Successfully led SAP implementation projects for Deutsche Bank, Al Maya Group, and ABC Logistics, optimizing workflows across finance, supply chain, and procurement.  
+- **SAP Global Implementations**: Successfully led SAP implementation projects for Deutsche Bank, Al Maya Group, and HostEurope, optimizing workflows across finance, supply chain, and procurement.  
 - **Digital Transformation**: Delivered multiple enterprise-wide digital transformation projects, earning the **Cisco Global Award** for innovation.  
 - **Software Development Leadership**: Managed the development of Turkey's first domestic SQL and Oracle diagnostic tool (Spider Engine) in collaboration with TÜBİTAK.  
 - **Agile Evangelist**: Trained and led cross-functional teams in Agile and DevOps practices, achieving faster delivery and improved quality in software projects.  
